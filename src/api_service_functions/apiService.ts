@@ -1,4 +1,4 @@
-import { MenuItem, OrderCheck} from '../types/types';
+import { MenuItem} from '../types/types';
 
 const API_BASE_URL = 'https://localhost:7230/';
 // const API_BASE_URL = '/';
